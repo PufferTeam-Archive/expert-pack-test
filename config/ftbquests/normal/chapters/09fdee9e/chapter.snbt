@@ -1,0 +1,7 @@
+{
+	title: "The Aether",
+	icon: "aether_legacy:aether_portal_frame",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}
