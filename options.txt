@@ -51,7 +51,7 @@ realmsNotifications:true
 enableWeakAttacks:false
 autoJump:true
 narrator:0
-tutorialStep:movement
+tutorialStep:find_tree
 key_key.attack:-100
 key_key.use:-99
 key_key.forward:17
@@ -91,17 +91,12 @@ key_Misc Caster Toggle:34
 key_key.craftpresence.config_keycode.name:41
 key_Reload Menu | CTRL + ALT + :19
 key_Toggle Customization Overlay | CTRL + ALT + :0
+key_roots.keybinds.pouch:0
+key_roots.keybinds.quiver:0
+key_roots.keybinds.spell_library:37
+key_roots.keybinds.cycle:0
+key_roots.keybinds.delete_spell:0
 key_keybind.baublesinventory:48
-key_quark.keybind.toggleAutojump:48
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:44
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
-key_quark.keybind.playerSort:0
-key_quark.keybind.lockBuilding:37
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -120,6 +115,16 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
+key_quark.keybind.lockBuilding:37
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:44
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
+key_quark.keybind.playerSort:0
+key_quark.keybind.toggleAutojump:48
 key_key.toggle_shaders:0
 key_bloodmagic.keybind.open_holding:35
 key_bloodmagic.keybind.cycle_holding_pos:13:SHIFT
@@ -133,24 +138,12 @@ key_key.next_item.desc:0
 key_key.previous_item.desc:0
 key_key.open_danknull.desc:0
 key_key.togglehud.desc:0
-key_key.ebwizardry.next_spell:49
-key_key.ebwizardry.previous_spell:48
-key_key.ebwizardry.spell_1:2:ALT
-key_key.ebwizardry.spell_2:3:ALT
-key_key.ebwizardry.spell_3:4:ALT
-key_key.ebwizardry.spell_4:5:ALT
-key_key.ebwizardry.spell_5:6:ALT
-key_key.ebwizardry.spell_6:7:ALT
-key_key.ebwizardry.spell_7:8:ALT
-key_key.ebwizardry.spell_8:9:ALT
 key_key.xu2.searchforitems:20
 key_key.ftbguides.guide:0
 key_key.ftbutilities.nbt:49:ALT
 key_key.ftbutilities.trash:211
 key_key.ftbquests.quests:0
 key_key.ftbmoney.shop:0
-key_key.ironbackpacks.equip:35
-key_key.ironbackpacks.open:23
 key_neat.keybind.toggle:0
 key_openblocks.keybind.vario_switch:47
 key_openblocks.keybind.vario_vol_up:0
@@ -221,6 +214,9 @@ key_key.aether.accessory_menu:23
 key_bbw.key.mode:50
 key_bbw.key.fluidmode:33
 key_Seamoth descend:0
+key_key.bookdisplay.display:19
+key_key.bookdisplay.left:203
+key_key.bookdisplay.right:205
 key_nei.options.keys.gui.botania_corporea_request:0
 key_key.settings_menu:34
 key_key.range:19
@@ -262,6 +258,7 @@ key_ALT Menu:56
 key_Mode Switch:50
 key_Jetpack Hover:35
 key_Armor Charging:49
+key_Open Backpack:48
 key_key.inventoryhud.toggle:23
 key_key.inventoryhud.openconfig:24
 key_key.inventoryhud.togglepot:-1

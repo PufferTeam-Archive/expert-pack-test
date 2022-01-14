@@ -10,6 +10,10 @@
 /crash-reports/
 /config/gregtech/terminal/ore_prospector/
 /config/thaumicjei_itemstack_aspects.json
+/config/jei/worldSettings.cfg
+/usercache.json
+/usernamecache.json
+/mapfrontiers/
 /fancymenu_setups/
 /fonts/
 /journeymap
