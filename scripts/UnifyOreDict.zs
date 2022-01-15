@@ -1,11 +1,11 @@
-#UnifyOreDict
+//UnifyOreDict
 import crafttweaker.item.IItemStack;
 
-#----------------------------------------------
-#OreDict
-#----------------------------------------------
+//----------------------------------------------
+//OreDict
+//----------------------------------------------
 
-#TE Aluminum -> Aluminum Oredict
+//TE Aluminum -> Aluminum Oredict
 <ore:blockAluminium>.add(TEAluminumBlock);
 <ore:blockAluminum>.remove(TEAluminumBlock);
 
@@ -46,8 +46,8 @@ import crafttweaker.item.IItemStack;
 <ore:stickAluminium>.add(IEAluminumStick);
 <ore:stickAluminum>.remove(IEAluminumStick);
 
-#----------------------------------------------
-#Print
-#----------------------------------------------
+//----------------------------------------------
+//Print
+//----------------------------------------------
 
 print("Loaded UnifyOreDict.zs");
