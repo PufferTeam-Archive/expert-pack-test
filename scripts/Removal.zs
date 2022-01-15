@@ -1,44 +1,44 @@
 #Removal
 
-#----------------------------------------------
-#Import
-#----------------------------------------------
+//----------------------------------------------
+//Import
+//----------------------------------------------
 
 import crafttweaker.item.IItemStack;
 import mods.jei.JEI;
 import mods.embers.DawnstoneAnvil;
 
-#----------------------------------------------
-#Arrays
-#----------------------------------------------
+//----------------------------------------------
+//Arrays
+//----------------------------------------------
 
-#Array JEIItems RemoveAndHide
+//Array JEIItems RemoveAndHide
 val JEIItemsHide = [
 
-    #MW Copper
+    //MW Copper
     <mysticalworld:copper_block>,
     <mysticalworld:copper_ingot>,
     <mysticalworld:copper_nugget>,
     <mysticalworld:copper_dust>,
     <mysticalworld:copper_dust_tiny>,
 
-    #MW Silver
+    //MW Silver
     <mysticalworld:silver_block>,
     <mysticalworld:silver_ingot>,
     <mysticalworld:silver_nugget>,
     <mysticalworld:silver_dust>,
     <mysticalworld:silver_dust_tiny>,
 
-    #MW Amethyst
+    //MW Amethyst
     <mysticalworld:amethyst_block>,
     <mysticalworld:amethyst_gem>
 
 ] as IItemStack[];
 
-#Array JEIItems Hide
+//Array JEIItems Hide
 val JEIItemsHide = [
 
-    #The Underwater World
+    //The Underwater World
     <underwater:seaweed>,
     <underwater:seagrass>,
     <underwater:seagrass_short>,
@@ -69,7 +69,7 @@ val JEIItemsHide = [
     <underwater:underwater_oak_trapdoor>,
     <underwater:underwater_oak_door>,
 
-    #Better Diving
+    //Better Diving
     <better_diving:habitat_builder>,
     <better_diving:fabricator>,
     <better_diving:solar_panel>,
@@ -110,19 +110,19 @@ val JEIItemsHide = [
 
 ] as IItemStack[];
 
-#Array JEITabs Hide
+//Array JEITabs Hide
 val JEITabsHide = [
 
-    #Ender IO
+    //Ender IO
     "EIOTank",
     "Painter"
 
 ] as IItemStack[];
 
-#Array JEITools RemoveAndHide
+//Array JEITools RemoveAndHide
 val JEIToolsHide = [
 
-    #MW Copper
+    //MW Copper
     <mysticalworld:copper_helmet>,
     <mysticalworld:copper_chestplate>,
     <mysticalworld:copper_leggings>,
@@ -133,7 +133,7 @@ val JEIToolsHide = [
     <mysticalworld:copper_pickaxe>,
     <mysticalworld:copper_shovel>,
 
-    #MW Silver
+    //MW Silver
     <mysticalworld:silver_helmet>,
     <mysticalworld:silver_chestplate>,
     <mysticalworld:silver_leggings>,
@@ -144,7 +144,7 @@ val JEIToolsHide = [
     <mysticalworld:silver_pickaxe>,
     <mysticalworld:silver_shovel>,
 
-    #MW Amethyst
+    //MW Amethyst
     <mysticalworld:amethyst_sword>,
     <mysticalworld:amethyst_axe>,
     <mysticalworld:amethyst_hoe>,
@@ -154,32 +154,32 @@ val JEIToolsHide = [
 
 ] as IItemStack[];
 
-#----------------------------------------------
-#Functions
-#----------------------------------------------
+//----------------------------------------------
+//Functions
+//----------------------------------------------
 
-#JEIItems RemoveAndHide
+//JEIItems RemoveAndHide
 for items in JEIToolsHide {
 
 JEI.removeAndHide(items);
 
 }
 
-#JEIItems Hide
+//JEIItems Hide
 for items in JEIToolsHide {
 
 JEI.hide(items);
 
 }
 
-#JEITabs Hide
+//JEITabs Hide
 for tabs in JEITabsHide {
 
 JEI.hideCategory("category");(tabs);
 
 }
 
-#JEITools RemoveAndHide
+//JEITools RemoveAndHide
 for tools in JEIToolsHide {
 
 JEI.removeAndHide(tools);
@@ -187,8 +187,8 @@ DawnstoneAnvil.blacklistRepair(tools);
 
 }
 
-#----------------------------------------------
-#Print
-#----------------------------------------------
+//----------------------------------------------
+//Print
+//----------------------------------------------
 
 print("Loaded Removal.zs");
