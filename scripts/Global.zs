@@ -13,13 +13,21 @@ import mods.gregtech.material.MaterialRegistry;
 #----------------------------------------------
 
 #TE Aluminum
-global AluminumBlock as IItemStack = <thermalfoundation:storage:4>;
-global AluminumIngot as IItemStack = <thermalfoundation:material:132>;
-global AluminumDust as IItemStack = <thermalfoundation:material:68>;
-global AluminumNugget as IItemStack = <thermalfoundation:material:196>;
-global AluminumGear as IItemStack = <thermalfoundation:material:260>;
-global AluminumPlate as IItemStack = <thermalfoundation:material:324>;
-global AluminumCoin as IItemStack = <thermalfoundation:coin:68>;
+global TEAluminumBlock as IItemStack = <thermalfoundation:storage:4>;
+global TEAluminumIngot as IItemStack = <thermalfoundation:material:132>;
+global TEAluminumDust as IItemStack = <thermalfoundation:material:68>;
+global TEAluminumNugget as IItemStack = <thermalfoundation:material:196>;
+global TEAluminumGear as IItemStack = <thermalfoundation:material:260>;
+global TEAluminumPlate as IItemStack = <thermalfoundation:material:324>;
+global TEAluminumCoin as IItemStack = <thermalfoundation:coin:68>;
+
+#IE Aluminum
+global IEAluminumBlock as IItemStack = <immersiveengineering:storage:1>;
+global IEAluminumIngot as IItemStack = <immersiveengineering:metal:1>;
+global IEAluminumDust as IItemStack = <immersiveengineering:metal:10>;
+global IEAluminumNugget as IItemStack = <immersiveengineering:metal:21>;
+global IEAluminumPlate as IItemStack = <immersiveengineering:metal:31>;
+global IEAluminumStick as IItemStack = <immersiveengineering:material:3>;
 
 //GT Aluminum
 var Aluminium = MaterialRegistry.get("aluminium");
@@ -42,8 +50,8 @@ global AluminiumLongStick as IItemStack = <gregtech:meta_stick_long:2>;
 global AluminiumBolt as IItemStack = <gregtech:meta_bolt:2>;
 global AluminiumScrew as IItemStack = <gregtech:meta_screw:2>;
 global AluminiumRing as IItemStack = <gregtech:meta_ring:2>;
-global AluminiumSpring as IItemStack = <gregtech:meta_sring:2>;
-global AluminiumSmallSpring as IItemStack = <gregtech:meta_sring_small:2>;
+global AluminiumSpring as IItemStack = <gregtech:meta_spring:2>;
+global AluminiumSmallSpring as IItemStack = <gregtech:meta_spring_small:2>;
 global AluminiumFineWire as IItemStack = <gregtech:meta_wire_fine:2>;
 global AluminiumTurbineBlade as IItemStack = <gregtech:meta_turbine_blade:2>;
 

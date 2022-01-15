@@ -5,27 +5,46 @@ import crafttweaker.item.IItemStack;
 #OreDict
 #----------------------------------------------
 
-#Aluminum -> Aluminum Oredict
-<ore:blockAluminium>.add(AluminumBlock);
-<ore:blockAluminum>.remove(AluminumBlock);
+#TE Aluminum -> Aluminum Oredict
+<ore:blockAluminium>.add(TEAluminumBlock);
+<ore:blockAluminum>.remove(TEAluminumBlock);
 
-<ore:ingotAluminium>.add(AluminumIngot);
-<ore:ingotAluminum>.remove(AluminumIngot);
+<ore:ingotAluminium>.add(TEAluminumIngot);
+<ore:ingotAluminum>.remove(TEAluminumIngot);
 
-<ore:dustAluminium>.add(AluminumDust);
-<ore:dustAluminum>.remove(AluminumDust);
+<ore:dustAluminium>.add(TEAluminumDust);
+<ore:dustAluminum>.remove(TEAluminumDust);
 
-<ore:nuggetAluminium>.add(AluminumNugget);
-<ore:nuggetAluminum>.remove(AluminumNugget);
+<ore:nuggetAluminium>.add(TEAluminumNugget);
+<ore:nuggetAluminum>.remove(TEAluminumNugget);
 
-<ore:gearAluminium>.add(AluminumGear);
-<ore:gearAluminum>.remove(AluminumGear);
+<ore:gearAluminium>.add(TEAluminumGear);
+<ore:gearAluminum>.remove(TEAluminumGear);
 
-<ore:plateAluminium>.add(AluminumPlate);
+<ore:plateAluminium>.add(TEAluminumPlate);
 <ore:plateAluminum>.remove(AluminumPlate);
 
-<ore:coinAluminium>.add(AluminumCoin);
-<ore:coinAluminum>.remove(AluminumCoin);
+<ore:coinAluminium>.add(TEAluminumCoin);
+<ore:coinAluminum>.remove(TEAluminumCoin);
+
+//IE Aluminum -> Aluminum Oredict
+<ore:blockAluminium>.add(IEAluminumBlock);
+<ore:blockAluminum>.remove(IEAluminumBlock);
+
+<ore:ingotAluminium>.add(IEAluminumIngot);
+<ore:ingotAluminum>.remove(IEAluminumIngot);
+
+<ore:dustAluminium>.add(IEAluminumDust);
+<ore:dustAluminum>.remove(IEAluminumDust);
+
+<ore:nuggetAluminium>.add(IEAluminumNugget);
+<ore:nuggetAluminum>.remove(IEAluminumNugget);
+
+<ore:plateAluminium>.add(IEAluminumPlate);
+<ore:plateAluminum>.remove(IEAluminumPlate);
+
+<ore:stickAluminium>.add(IEAluminumStick);
+<ore:stickAluminum>.remove(IEAluminumStick);
 
 #----------------------------------------------
 #Print

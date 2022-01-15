@@ -16,18 +16,21 @@ import mods.embers.DawnstoneAnvil;
 val JEIItemsHide = [
 
     #MW Copper
+    <mysticalworld:copper_block>,
     <mysticalworld:copper_ingot>,
     <mysticalworld:copper_nugget>,
     <mysticalworld:copper_dust>,
     <mysticalworld:copper_dust_tiny>,
 
     #MW Silver
+    <mysticalworld:silver_block>,
     <mysticalworld:silver_ingot>,
     <mysticalworld:silver_nugget>,
     <mysticalworld:silver_dust>,
     <mysticalworld:silver_dust_tiny>,
 
     #MW Amethyst
+    <mysticalworld:amethyst_block>,
     <mysticalworld:amethyst_gem>
 
 ] as IItemStack[];
@@ -107,6 +110,14 @@ val JEIItemsHide = [
 
 ] as IItemStack[];
 
+#Array JEITabs Hide
+val JEITabsHide = [
+
+    #Ender IO
+    "EIOTank",
+    "Painter"
+
+] as IItemStack[];
 
 #Array JEITools RemoveAndHide
 val JEIToolsHide = [
@@ -161,10 +172,18 @@ JEI.hide(items);
 
 }
 
+#JEITabs Hide
+for tabs in JEITabsHide {
+
+JEI.hideCategory("category");(tabs);
+
+}
+
 #JEITools RemoveAndHide
 for tools in JEIToolsHide {
 
 JEI.removeAndHide(tools);
+DawnstoneAnvil.blacklistRepair(tools);
 
 }
 
