@@ -3,3 +3,9 @@ type = customizablemenus
 thebetweenlands.client.gui.menu.GuiBLMainMenu {
 }
 
+net.minecraft.client.gui.GuiMainMenu {
+}
+
+com.gendeathrow.mpbasic.client.gui.GuiChangeLogWindow {
+}
+

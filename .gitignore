@@ -29,6 +29,7 @@
 /patchouli_books/
 /resourcepacks/
 /saves/
+/screenshots/
 /shaderpacks/
 /structures/
 /TombManyGraves/
@@ -39,8 +40,11 @@
 /OpenComputersMod-1.7.5.192-lua52-native.64.dll
 /OpenComputersMod-1.7.5.192-lua53-native.64.dll
 /patchouli_data.json
-/concheckrmd
 /roots.log
 /dropt.log
 /config/customloadingscreen_timings.nbt
 /config/AppliedEnergistics2/CustomRecipes.cfg
+/config/astralsorcery/amulet_enchantments.cfg
+/config/tinker_ore_dict_melting_cache.dat
+/config/splash.properties
+/concheckrmd

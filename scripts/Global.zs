@@ -1,6 +1,16 @@
 #Global Variables
 
+#----------------------------------------------
+#Import
+#----------------------------------------------
+
 import crafttweaker.item.IItemStack;
+import mods.gregtech.material.Material;
+import mods.gregtech.material.MaterialRegistry;
+
+#----------------------------------------------
+#Material Variables
+#----------------------------------------------
 
 #TE Aluminum
 global AluminumBlock as IItemStack = <thermalfoundation:storage:4>;
@@ -12,6 +22,7 @@ global AluminumPlate as IItemStack = <thermalfoundation:material:324>;
 global AluminumCoin as IItemStack = <thermalfoundation:coin:68>;
 
 //GT Aluminum
+var Aluminium = MaterialRegistry.get("aluminium");
 global AluminiumBlock as IItemStack = <gregtech:meta_block_compressed_0:2>;
 global AluminiumIngot as IItemStack = <gregtech:meta_ingot:2>;
 global AluminiumDust as IItemStack = <gregtech:meta_dust:2>;
@@ -37,4 +48,8 @@ global AluminiumFineWire as IItemStack = <gregtech:meta_wire_fine:2>;
 global AluminiumTurbineBlade as IItemStack = <gregtech:meta_turbine_blade:2>;
 
 
-print("ENDING Global.zs");
+#----------------------------------------------
+#Print
+#----------------------------------------------
+
+print("Loaded Global.zs");

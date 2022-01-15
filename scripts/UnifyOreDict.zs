@@ -1,15 +1,11 @@
 #UnifyOreDict
 import crafttweaker.item.IItemStack;
 
-val aluminumIngot = <ore:ingotAluminum>;
-val aluminiumIngot = <ore:ingotAluminium>;
+#----------------------------------------------
+#OreDict
+#----------------------------------------------
 
-
-for item in aluminumIngot.items {
-    
-}
-
-#Aluminum -> Alumium Oredict
+#Aluminum -> Aluminum Oredict
 <ore:blockAluminium>.add(AluminumBlock);
 <ore:blockAluminum>.remove(AluminumBlock);
 
@@ -31,4 +27,8 @@ for item in aluminumIngot.items {
 <ore:coinAluminium>.add(AluminumCoin);
 <ore:coinAluminum>.remove(AluminumCoin);
 
-print("ENDING UnifyOreDict.zs");
+#----------------------------------------------
+#Print
+#----------------------------------------------
+
+print("Loaded UnifyOreDict.zs");
