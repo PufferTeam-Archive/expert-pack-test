@@ -12,6 +12,7 @@
 - [AppleCore-mc1.12.2-3.4.0.jar](https://www.curseforge.com/minecraft/mc-mods/applecore/files/2969118)
 - [AppleSkin-mc1.12-1.0.14.jar](https://www.curseforge.com/minecraft/mc-mods/appleskin/files/2987247)
 - [appliedenergistics2-rv6-stable-7.jar](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/files/2747063)
+- [armoryexpansion-2.0.0-alpha.jar](https://www.curseforge.com/minecraft/mc-mods/armory-expansion/files/2925155)
 - [astralsorcery-1.12.2-1.10.27.jar](https://www.curseforge.com/minecraft/mc-mods/astral-sorcery/files/3044416)
 - [athenaeum-1.12.2-1.19.5.jar](https://www.curseforge.com/minecraft/mc-mods/athenaeum/files/3533386)
 - [AttributeFix-1.12.2-1.0.10.jar](https://www.curseforge.com/minecraft/mc-mods/attributefix/files/2810157)
