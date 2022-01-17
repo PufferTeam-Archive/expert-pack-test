@@ -142,6 +142,7 @@
 - [lost-aether-content-1.12.2-1.0.2.jar](https://www.curseforge.com/minecraft/mc-mods/aether-lost-content/files/3038185)
 - [lostcities-1.12-2.0.22.jar](https://www.curseforge.com/minecraft/mc-mods/the-lost-cities/files/2861574)
 - [Magneticraft_1.12-2.9.2-dev.jar](https://www.curseforge.com/minecraft/mc-mods/magnetic-engineering/files/3478543)
+- [maleksinfinitygauntlet.jar](https://www.curseforge.com/minecraft/mc-mods/maleks-infinity-gauntlet/files/3209181)
 - [malisiscore-1.12.2-6.5.1.jar](https://www.curseforge.com/minecraft/mc-mods/malisiscore/files/2680892)
 - [malisisdoors-1.12.2-7.3.0.jar](https://www.curseforge.com/minecraft/mc-mods/malisisdoors/files/2526674)
 - [Mantle-1.12-1.3.3.55.jar](https://www.curseforge.com/minecraft/mc-mods/mantle/files/2713386)
