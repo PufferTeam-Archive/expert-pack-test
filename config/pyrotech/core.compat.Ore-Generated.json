@@ -160,7 +160,7 @@
     "oreUranium": {
       "slagColor": "5c734b",
       "langKey": [
-        "immersiveengineering:tile.immersiveengineering.ore.uranium"
+        "nuclearcraft:tile.nuclearcraft.ore.uranium"
       ],
       "output": [
         "gregtech:meta_nugget:116"
