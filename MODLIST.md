@@ -42,8 +42,6 @@
 - [capabilityadapter-1.1.3.jar](https://www.curseforge.com/minecraft/mc-mods/capability-adapter/files/3474317)
 - [Chameleon-1.12-4.1.3.jar](https://www.curseforge.com/minecraft/mc-mods/chameleon/files/2450900)
 - [champions-1.12.2-1.0.11.10.jar](https://www.curseforge.com/minecraft/mc-mods/champions-rotn-edition/files/3104329)
-- [Charset-Lib-0.5.6.5.jar](https://www.curseforge.com/minecraft/mc-mods/charset-lib/files/3066682)
-- [Charset-StorageChests-0.5.6.0.jar](https://www.curseforge.com/minecraft/mc-mods/charset-storage-chests/files/2745002)
 - [Chisel-MC1.12.2-1.0.2.45.jar](https://www.curseforge.com/minecraft/mc-mods/chisel/files/2915375)
 - [chiselsandbits-14.33.jar](https://www.curseforge.com/minecraft/mc-mods/chisels-bits/files/2720655)
 - [Clumps-3.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/clumps/files/2666198)
