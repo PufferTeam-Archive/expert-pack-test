@@ -84,7 +84,6 @@
 - [ExtendedCrafting-Omnifactory-Edition-1.6.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/extended-crafting-omnifactory-edition/files/3501608)
 - [ExtraBitManipulation-1.12.2-3.4.1.jar](https://www.curseforge.com/minecraft/mc-mods/extra-bit-manipulation/files/2630081)
 - [extrautils2-1.12-1.9.9.jar](https://www.curseforge.com/minecraft/mc-mods/extra-utilities/files/2678374)
-- [f5fix-1.2.jar](https://www.curseforge.com/minecraft/mc-mods/third-person-camera-fix/files/2618370)
 - [fancymenu_forge_2.5.2_MC_1.12-1.12.2.jar](https://www.curseforge.com/minecraft/mc-mods/fancymenu-forge/files/3605969)
 - [Farseek-1.12-2.5.1.jar](https://www.curseforge.com/minecraft/mc-mods/farseek/files/3093852)
 - [FastFurnace-1.12.2-1.3.1.jar](https://www.curseforge.com/minecraft/mc-mods/fastfurnace/files/2706111)
