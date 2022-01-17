@@ -69,17 +69,6 @@ val JEIItemsHide = [
     <underwater:underwater_oak_trapdoor>,
     <underwater:underwater_oak_door>,
 
-    //Better Diving
-    <better_diving:habitat_builder>,
-    <better_diving:fabricator>,
-    <better_diving:solar_panel>,
-    <better_diving:structure_block>,
-    <better_diving:seagrass>,
-    <better_diving:seagrass_tall_bottom>,
-    <better_diving:seagrass_tall_top>,
-    <better_diving:creepvine_seed>,
-    <better_diving:creepvine_top>,
-
     //TConstruct
     <tconstruct:clay_cast>,
 

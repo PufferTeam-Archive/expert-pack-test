@@ -25,7 +25,6 @@
 - [BetterAdvancements-1.12.2-0.1.0.77.jar](https://www.curseforge.com/minecraft/mc-mods/better-advancements/files/2685984)
 - [BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar](https://www.curseforge.com/minecraft/mc-mods/better-builders-wands/files/2443194)
 - [bettercaves-1.12.2-2.0.4.jar](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves/files/3003242)
-- [BetterDiving-1.12.2-1.5.8.jar](https://www.curseforge.com/minecraft/mc-mods/better-diving/files/3089030)
 - [BetterFps-1.4.8.jar](https://www.curseforge.com/minecraft/mc-mods/betterfps/files/2483393)
 - [BetterMineshaftsForge-1.12.2-2.2.1.jar](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge/files/3247154)
 - [BetterNether-1.12.2-0.1.9.1.jar](https://www.curseforge.com/minecraft/mc-mods/betternether-rotn-edition/files/3305070)
