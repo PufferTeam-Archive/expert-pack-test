@@ -215,6 +215,7 @@
 - [structurize-1.12.2-0.10.277-RELEASE.jar](https://www.curseforge.com/minecraft/mc-mods/structurize/files/2901463)
 - [Surge-1.12.2-2.0.79.jar](https://www.curseforge.com/minecraft/mc-mods/surge/files/2916357)
 - [TConstruct-1.12.2-2.13.0.183.jar](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct/files/2902483)
+- [TexFix V-1.12-4.0.jar](https://www.curseforge.com/minecraft/mc-mods/texfix/files/2518068)
 - [Thaumcraft-1.12.2-6.1.BETA26.jar](https://www.curseforge.com/minecraft/mc-mods/thaumcraft/files/2629023)
 - [ThaumcraftResearchPatcher-1.12.2-1.1.3.jar](https://www.curseforge.com/minecraft/mc-mods/thaumcraft-research-patcher/files/3378132)
 - [ThaumicAugmentation-1.12.2-2.1.5.jar](https://www.curseforge.com/minecraft/mc-mods/thaumic-augmentation/files/3536155)
