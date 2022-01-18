@@ -97,6 +97,7 @@ key_roots.keybinds.spell_library:37
 key_roots.keybinds.cycle:0
 key_roots.keybinds.delete_spell:0
 key_keybind.baublesinventory:48
+key_quark.keybind.toggleAutojump:48
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -124,14 +125,13 @@ key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
 key_quark.keybind.playerSort:0
 key_quark.keybind.lockBuilding:37
-key_quark.keybind.toggleAutojump:48
 key_key.toggle_shaders:0
-key_bloodmagic.keybind.open_holding:35
-key_bloodmagic.keybind.cycle_holding_pos:13:SHIFT
-key_bloodmagic.keybind.cycle_holding_neg:12:SHIFT
 key_key.conarm.toggle_helm.desc:34
 key_key.conarm.toggle_chest.desc:35
 key_key.conarm.toggle_leg.desc:36
+key_bloodmagic.keybind.open_holding:35
+key_bloodmagic.keybind.cycle_holding_pos:13:SHIFT
+key_bloodmagic.keybind.cycle_holding_neg:12:SHIFT
 key_cos.key.opencosarmorinventory:0
 key_key.next_item.desc:0
 key_key.previous_item.desc:0
@@ -212,7 +212,6 @@ key_key.toggle_focus.desc:15
 key_key.aether.accessory_menu:23
 key_bbw.key.mode:50
 key_bbw.key.fluidmode:33
-key_Seamoth descend:0
 key_key.bookdisplay.display:19
 key_key.bookdisplay.left:203
 key_key.bookdisplay.right:205
