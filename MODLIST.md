@@ -148,7 +148,7 @@
 - [mcjtylib-1.12-3.5.4.jar](https://www.curseforge.com/minecraft/mc-mods/mcjtylib/files/2745846)
 - [MCTImmersiveTechnology-1.12.2-1.9.99.jar](https://www.curseforge.com/minecraft/mc-mods/mct-immersive-technology/files/3534436)
 - [MechanicalCrafting-1.2.1b.jar](https://www.curseforge.com/minecraft/mc-mods/mechanical-crafting/files/3273914)
-- [mixinbooter-3.2.jar](https://www.curseforge.com/minecraft/mc-mods/mixin-booter/files/3614716)
+- [mixinbooter-3.0.jar](https://www.curseforge.com/minecraft/mc-mods/mixin-booter/files/3575119)
 - [MmmMmmMmmMmm-1.12-1.14.jar](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm/files/2503041)
 - [moartinkers-0.6.0.jar](https://www.curseforge.com/minecraft/mc-mods/moar-tinkers/files/2579934)
 - [modelloader-1.1.7.jar](https://www.curseforge.com/minecraft/mc-mods/modelloader/files/2744735)
@@ -262,3 +262,4 @@
 - [WirelessPatternTerminal-1.12.2-1.0.3.jar](https://www.curseforge.com/minecraft/mc-mods/wireless-pattern-terminal/files/2830255)
 - [xnet-1.12-1.8.2.jar](https://www.curseforge.com/minecraft/mc-mods/xnet/files/2745852)
 - [MixinBootstrap-1.1.0.jar](https://www.curseforge.com/minecraft/mc-mods/mixinbootstrap/files/3437402)
+- [MixinCompat-0.8.jar](https://www.curseforge.com/minecraft/mc-mods/mixin-0-7-0-8-compatibility/files/3045381)
