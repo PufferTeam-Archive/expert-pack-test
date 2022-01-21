@@ -79,7 +79,7 @@
 - [EnderTweaker-1.12.2-1.2.3.jar](https://www.curseforge.com/minecraft/mc-mods/endertweaker/files/3474382)
 - [EntityCulling-1.12.2-4.2.5.jar](https://www.curseforge.com/minecraft/mc-mods/entity-culling/files/3568076)
 - [ExperienceBugFix-1.12.2-1.0.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/fix-experience-bug/files/3372374)
-- [ExtendedCrafting-Omnifactory-Edition-1.6.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/extended-crafting-omnifactory-edition/files/3501608)
+- [ExtendedCrafting-Nomifactory-Edition-1.7.0.jar](https://www.curseforge.com/minecraft/mc-mods/extended-crafting-nomifactory-edition/files/3613140)
 - [ExtraBitManipulation-1.12.2-3.4.1.jar](https://www.curseforge.com/minecraft/mc-mods/extra-bit-manipulation/files/2630081)
 - [extrautils2-1.12-1.9.9.jar](https://www.curseforge.com/minecraft/mc-mods/extra-utilities/files/2678374)
 - [fancymenu_forge_2.5.2_MC_1.12-1.12.2.jar](https://www.curseforge.com/minecraft/mc-mods/fancymenu-forge/files/3605969)
